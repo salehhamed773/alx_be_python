@@ -15,4 +15,4 @@ if time_bound == "yes":
     reminder_message += " that requires immediate attention today!"
 else:
     reminder_message += ". Consider completing it when you have free time."
-print(reminder_message)
+print(f"Reminder: {reminder_message}")
