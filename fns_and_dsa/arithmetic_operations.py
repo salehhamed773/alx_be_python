@@ -1,5 +1,3 @@
-result = perform_operation(num1, num2, operation)
-print(f"Result: {result}")
 def perform_operation(num1: float, num2: float, operation: str) -> float:
      if operation == 'add':
         return num1 + num2
