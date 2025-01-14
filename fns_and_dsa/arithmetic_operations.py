@@ -1,4 +1,5 @@
-def perform_operation(num1: float, num2: float, operation: str) -> float:
+# ["num1, num2, operation"]
+def perform_operation(num1: float, num2: float, operation: str) -> float:#(num1,\s*num2,\s*operation\):
      if operation == 'add':
         return num1 + num2
     elif operation == 'subtract':
