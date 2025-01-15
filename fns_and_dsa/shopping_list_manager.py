@@ -1,6 +1,4 @@
 #shopping_list.py
-#print\(f?['\"]Shopping\s*List\s*Manager['\"]\)
-#print\(f?['\"]1.\s*Add\s*Item['\"]\)
 def display_menu():
     print("/nShopping List Menu:")
     print("1. Add an item")
